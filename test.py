@@ -1,4 +1,3 @@
-
-    """This function does something important."""
-print("hi")
+print("Hello")
+print("World")  # fixed
 
