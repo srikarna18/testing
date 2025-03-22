@@ -1,8 +1,10 @@
+"""This module contains a simple greeting function."""
+
 def greet():
+    """Prints a greeting message."""
     print('Hello World!')
 
-# call the function
+# Call the function
 greet()
 
 print('Outside function')
-
